@@ -1,3 +1,3 @@
-#Flexbox slider
+# Flexbox slider
 
 Пример верстки адаптивной страницы с применением flexbox'ов
